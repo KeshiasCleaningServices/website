@@ -5,6 +5,7 @@ body {
     overflow-x: hidden;
 }
 
+
 hr {
     border: 1px solid #ececec;
     position: relative;
@@ -30,7 +31,7 @@ hr {
 }
 
 .hero {
-    background: url(../images/assets/heading-img.png) center center;
+    background: url(../images/assets/Untitled%20drawing.png) center center;
     background-size: cover;
     height: 600px;
     width: 100%;
@@ -113,7 +114,7 @@ p {
 }
 
 h5,
-h6 {
+h6, h4.welcome-message {
     font-weight: 500;
     color: #283593;
 }
